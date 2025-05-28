@@ -1,4 +1,4 @@
-/* nav bar padding check */
+
 navbar-expand-lg .navbar-nav .nav-link {
     padding-right: 18.5rem !important;
     padding-left: 0.5rem !important;
@@ -136,7 +136,7 @@ navbar-expand-lg .navbar-nav .nav-link {
 
 
 
-/* FAq CSS */
+
 
 .container {
   display: flex;
